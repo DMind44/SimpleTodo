@@ -18,13 +18,14 @@ The following **optional** features are implemented:
 
 * [x] User can **tap a todo item in the list and bring up an edit screen for the todo item** and then have any changes to the text reflected in the todo list
 
-The following **additional** features are implemented:
-
-* [ ] List anything else that you can get done to improve the app functionality!
+## Walkthrough GIF
+  
+See Demo.gif in the master
 
 ## Notes
 
 It took me a little bit of time to realize that I forgot to specify RelativeLayout in the activity_main.xml
+
 
 ## License
 
